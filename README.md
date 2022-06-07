@@ -26,7 +26,7 @@ I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplc
 
 - 🔭 I’m working as a Student (intended to be a developer) and contributing to the opensource.
 - 🌱 Exploring Blockchain.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I explore the internet and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vardhaman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhaman-k/)
 
 ---
