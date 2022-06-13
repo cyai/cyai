@@ -48,7 +48,7 @@ I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplc
 
 ---
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 ---
 
 ## 🔥 &nbsp; My Stats :
