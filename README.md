@@ -60,6 +60,7 @@ I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplc
 
 <!-- ![Cyai's github stats](https://github-readme-stats.vercel.app/api?username=cyai) -->
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=cyai&theme=react-dark&hide_border=true&area=true)
 
 ---
 
