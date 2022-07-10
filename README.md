@@ -27,7 +27,7 @@ I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplc
 - 🔭 I’m working as a Student (intended to be a developer) and contributing to the opensource.
 - 🌱 Exploring Blockchain.
 - ⚡ In my free time I explore the internet and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vardhaman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhaman-k/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vardhaman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhaman-k/) [![Twitter Badge](https://img.shields.io/badge/-vardhaman722-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/vardhaman722)
 
 ---
 
@@ -62,10 +62,3 @@ I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplc
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=cyai&theme=react-dark&hide_border=true&area=true)
 
----
-
-<!-- ### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
