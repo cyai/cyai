@@ -31,7 +31,7 @@ I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-## 🛠 &nbsp;Languages and Tools :
+<!-- ## 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
@@ -47,6 +47,10 @@ I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplc
 </p>
 
 ---
+
+-->
+
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 ---
