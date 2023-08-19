@@ -22,12 +22,13 @@
 
 ## :woman_technologist: &nbsp;About Me :
 
-I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
 
 - 🔭 I’m working as a Student (intended to be a developer) and contributing to the opensource.
 - 🌱 Exploring Blockchain.
 - ⚡ In my free time I explore the internet and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vardhaman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhaman-k/) [![Twitter Badge](https://img.shields.io/badge/-vardhaman722-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/vardhaman722)
+- 📋 Portfolio: https://vardhamankalloli.netlify.app/
 
 ---
 
